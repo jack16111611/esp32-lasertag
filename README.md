@@ -6,5 +6,4 @@ The electronics are unified on a custom 2-layer carrier PCB powered untethered b
 
 Also this is my first time working with PCBs so cut me some slack.
 
-
-<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/0f7c2163-232d-4014-9546-c677febe416b" />
+<img width="1366" height="617" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/1a05f0d5-d1fc-4cd3-ab85-876431dbc8a4" />
