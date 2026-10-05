@@ -5,3 +5,6 @@ Each blaster features an integrated 0.96" I2C OLED HUD displaying real-time ammo
 The electronics are unified on a custom 2-layer carrier PCB powered untethered by 18650 Li-ion cells with integrated USB-C charging.
 
 Also this is my first time working with PCBs so cut me some slack.
+
+
+<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/0f7c2163-232d-4014-9546-c677febe416b" />
