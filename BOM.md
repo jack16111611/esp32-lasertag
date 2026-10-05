@@ -22,7 +22,7 @@
 | [Discrete Passives & Connectors Kit](https://robu.in/) | IR LEDs, 2N2222 transistors, buzzers, resistors, headers, and 3.5mm jacks | 1 | $4.50 | $4.50 | [Robu.in](https://robu.in/) |
 | [Custom 2-Layer Carrier PCB (Pack of 5)](https://jlcpcb.com) | Modular carrier board routing ESP32 to all peripherals | 1 | $2.00 | $2.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$22.39** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$22.39** | — |
+| **Tax & shipping** | — | — | — | **$18.00** | — |
+| **Total** | — | — | — | **$40.39** | — |
 
-$42.61 left of the tier's funding.
+$24.61 left of the tier's funding.
